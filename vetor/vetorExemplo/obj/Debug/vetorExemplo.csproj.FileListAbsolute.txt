@@ -1,0 +1,8 @@
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\bin\Debug\vetorExemplo.exe.config
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\bin\Debug\vetorExemplo.exe
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\bin\Debug\vetorExemplo.pdb
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\obj\Debug\vetorExemplo.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\obj\Debug\vetorExemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\obj\Debug\vetorExemplo.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\obj\Debug\vetorExemplo.exe
+C:\Users\ALUNO\Documents\GiovanaSilvaCSharp\vetor\vetorExemplo\obj\Debug\vetorExemplo.pdb
