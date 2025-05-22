@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vetorExemplo", "vetorExemplo\vetorExemplo.csproj", "{83F5B929-14D7-4E2B-A3AD-6D460A5D3B0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroJogos", "CadastroJogos\CadastroJogos.csproj", "{687A8C06-C240-4B62-AEA3-30391C86A8B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{83F5B929-14D7-4E2B-A3AD-6D460A5D3B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83F5B929-14D7-4E2B-A3AD-6D460A5D3B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83F5B929-14D7-4E2B-A3AD-6D460A5D3B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{687A8C06-C240-4B62-AEA3-30391C86A8B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687A8C06-C240-4B62-AEA3-30391C86A8B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687A8C06-C240-4B62-AEA3-30391C86A8B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687A8C06-C240-4B62-AEA3-30391C86A8B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

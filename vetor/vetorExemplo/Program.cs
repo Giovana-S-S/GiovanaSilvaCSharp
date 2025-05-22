@@ -44,6 +44,7 @@ namespace vetorExemplo
             Console.WriteLine(vetNomes[2]);
             Console.WriteLine(vetNomes[3]);
             Console.WriteLine(vetNomes[4]);
+            
         }
     }
 }
